@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998170674677",
+    "project_id": "real-time-firebase-4c525",
+    "storage_bucket": "real-time-firebase-4c525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998170674677:android:8d80780403f8d047c00cbc",
+        "android_client_info": {
+          "package_name": "com.odoobocalvin.real_time_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998170674677-nt9dso7lr3i9j8rae0jcimbemerq0hor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9T-sDCs1XZBVRDtmIIVNAISsPcsH6ijQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998170674677-nt9dso7lr3i9j8rae0jcimbemerq0hor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
